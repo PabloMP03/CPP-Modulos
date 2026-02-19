@@ -34,6 +34,10 @@ Este repositorio centraliza mi progresión a través de la **Piscina de C++**, u
 * **De qué va:** Conversión de tipos utilizando los operadores específicos de C++.
 * **Habilidades:** Uso correcto de `static_cast`, `dynamic_cast`, `const_cast` y `reinterpret_cast`.
 
+### [Module 07: Templates (Plantillas)](./CPP07)
+* **De qué va:** Implementación de funciones y clases genéricas mediante plantillas.
+* **Habilidades:** Programación genérica y abstracción de tipos de datos.
+
 ---
 
 ## 🛠️ Habilidades Técnicas Adquiridas
